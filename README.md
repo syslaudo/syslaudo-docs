@@ -52,7 +52,7 @@ Realizar exames, cadastro de laudos, entre outros.
 - **Titulação do médico professor:** Mestre, doutor, PHD
 - **Ano de residência do medico residente:** 1º ano de residência até 4º de residência
 
-# Dados dos pacientes que são necessários para o cadastro
+# Dados dos pacientes que são necessários para o cadastro 
 
 - Nome
 - E-mail
@@ -60,56 +60,6 @@ Realizar exames, cadastro de laudos, entre outros.
 - Data de Nascimento
 - Cor (é importante pois algumas doenças são predominantes em determinadas cores)
 - Idade(é calculada na data de nascimento inserida no cadastro de paciente)
-
-# Dados necessários para o pedido de exame (Realizado pelos médicos residentes)
-
-- Nome do paciente
-- Sexo
-- Idade
-- Cor
-- Data prevista de realização;
-- Nome do exame
-- Recomendação
-- Hipótese do diagnóstico 
-
-# Dados necessários para o cadastro do exame
-
-- Anexação de pdf
-- Data da realização
-- Hora da realização
-- Laudo médico
-- Tipo exame 
-- Imagem exame 
-- Situação do laudo
-
-# Tipos de exames que podem ser solicitados
-
-- Ecocardiograma
-- Eletrocardiograma
-- Mapa
-- Holter
-
-
-# Tecnologias utilizadas no desenvolvimento do software
-
-- **Front-end**
-	- ReactJS 
-
-- **Back-end**
-	- NodeJS
-
-- **Analytics**
-	- Python
-	
-- **Testes**
-	- Selenium
-	- Mocha
-	- Jmeter
-
-- **CI/CD**
-	- GitHub Actions;
-	- AWS API Gateway;
-	- AWS Amplify;
 
 # Dados necessários para o pedido de exame (Realizado pelos médicos residentes)
 
@@ -151,10 +101,31 @@ Realizar exames, cadastro de laudos, entre outros.
 	EX:  A Maria já pediu para fazer um Holter e ela ainda não fez o exame, portanto, ela não pode emitir outro pedido de exame. 
 
 
-
 # Fatores motivação 
 
 - O processo de realizar exames, entre outros, é responsável por toda a receita da empresa, sendo sua melhoria extremamente necessária. A falta de uma gestão efetiva sobre o processo tem grande impacto no faturamento, crescimento e sobrevivência da empresa. 
+
+
+# Tecnologias utilizadas no desenvolvimento do software
+
+- **Front-end**
+	- ReactJS 
+
+- **Back-end**
+	- NodeJS
+
+- **Analytics**
+	- Python
+	
+- **Testes**
+	- Selenium
+	- Mocha
+	- Jmeter
+
+- **CI/CD**
+	- GitHub Actions;
+	- AWS API Gateway;
+	- AWS Amplify;
 
 ## Grupo ABFLN³ 👨‍💻👩‍💻
 
