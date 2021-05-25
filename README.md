@@ -1,4 +1,86 @@
+# Sistema de gerenciamento de exames e laudos de cardiologia  (SYSLAUDO)
 
+Visando atender melhor seus pacientes e informatizar seu sistema de solicitação de exames e entrega de resultados da área de cardiologia, o hospital da UNIT contratou a ABLFN³ para desenvolver o software aqui apresentado.
+
+# Alinhamento Estratégico 
+
+- **Missão**
+
+Oferecer a melhor experiência em soluções de saúde, com qualidade, segurança e comodidade.
+
+- **Nosso cliente **
+
+Pessoas que necessitam de soluções de saúde.
+
+- **O que o cliente valoriza?**
+
+O cliente valoriza quando é bem atendido e suas demandas são reconhecidas.
+
+- **Quais são os nossos resultados?**
+
+Através dos nossos processos de segurança, comodidade e qualidade esperamos um feedback positivo do cliente, e também dos nossos funcionários em se sentir confortável para trabalhar. Com isso, esperamos construir uma boa reputação no mercado e crescer eventualmente. 
+
+- **Qual é o nosso plano?**
+
+Conseguir atender a todos os clientes que necessitam de soluções de saúde, tratando o cliente com comodidade e saúde para retornar.  
+
+- **Objetivo do processo**
+
+Realizar exames, cadastro de laudos, entre outros. 
+# Funcionalidades básicas
+
+- Emissão de pedidos de exame feita pelos médicos;
+- Registro de realização de exame ou não;
+- Emissão de laudos resultantes dos exames realizados;
+- Revisão de laudos realizadas pelos médicos professores;
+- Recomendações de exames;
+- Cadastro do paciente;
+- Consulta do paciente: data do exame, resultado de exame.
+
+# Tipos de médicos
+
+- Médicos Residentes (modalidade de ensino a pós graduação destinado a médicos, ou seja, é um aluno que já é formado porém está fazendo uma especialidade, ele precisa de uma orientação profissional);
+- Médicos professores (orientadores dos residentes);
+- Médicos.
+
+# Dados dos médicos que são necessários para o cadastro
+
+- Nome
+- CRM 
+
+- **Classificação**
+- **Titulação do médico professor:** Mestre, doutor, PHD
+- **Ano de residência do medico residente:** 1º ano de residência até 4º de residência
+
+# Dados dos pacientes que são necessários para o cadastro
+
+- Nome
+- E-mail
+- Sexo
+- Data de Nascimento
+- Cor (é importante pois algumas doenças são predominantes em determinadas cores)
+- Idade(é calculada na data de nascimento inserida no cadastro de paciente)
+
+# Tecnologias utilizadas no desenvolvimento do software
+
+- **Front-end**
+	- ReactJS 
+
+- **Back-end**
+	- NodeJS
+
+- **Analytics**
+	- Python
+	
+- **Testes**
+	- Selenium
+	- Mocha
+	- Jmeter
+
+- **CI/CD**
+	- GitHub Actions;
+	- AWS API Gateway;
+	- AWS Amplify;
 
 ## Grupo ABFLN³ 👨‍💻👩‍💻
 
