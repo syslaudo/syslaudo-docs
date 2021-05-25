@@ -111,6 +111,51 @@ Realizar exames, cadastro de laudos, entre outros.
 	- AWS API Gateway;
 	- AWS Amplify;
 
+# Dados necessários para o pedido de exame (Realizado pelos médicos residentes)
+
+- Nome do paciente
+- Sexo
+- Idade
+- Cor
+- Data prevista de realização;
+- Nome do exame
+- Recomendação
+- Hipótese do diagnóstico 
+
+# Dados necessários para o cadastro do exame
+
+- Anexação de pdf
+- Data da realização
+- Hora da realização
+- Laudo médico
+- Tipo exame 
+- Imagem exame 
+- Situação do laudo
+
+# Tipos de exames que podem ser solicitados
+
+- Ecocardiograma
+- Eletrocardiograma
+- Mapa
+- Holter
+
+# Informações importantes
+
+- Após o registro do exame, o médico irá interpretar a imagem, se houver.
+- Qualquer um dos médicos pode emitir um pedido de exame, desde que informe o registro do paciente.
+- Durante o cadastro, O médico vai poder informar uma data prevista para realização do exame, irá informar também a hipótese diagnóstica que deve ser com base na CID (Classificação Internacional de Doenças), por fim, ele solicita a emissão do pedido, o sistema salva e permite imprimir o pedido de exame via internet (o paciente deverá ter acesso ao exame dele pela internet).
+
+# Regra de Negócio 
+ 
+-  Caso o paciente já tenha o pedido em situação de aguardando o exame, o sistema não deve permitir que o outro pedido seja feito. 
+	EX:  A Maria já pediu para fazer um Holter e ela ainda não fez o exame, portanto, ela não pode emitir outro pedido de exame. 
+
+
+
+# Fatores motivação 
+
+- O processo de realizar exames, entre outros, é responsável por toda a receita da empresa, sendo sua melhoria extremamente necessária. A falta de uma gestão efetiva sobre o processo tem grande impacto no faturamento, crescimento e sobrevivência da empresa. 
+
 ## Grupo ABFLN³ 👨‍💻👩‍💻
 
 <table>
