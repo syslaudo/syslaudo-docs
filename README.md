@@ -27,6 +27,7 @@ Conseguir atender a todos os clientes que necessitam de soluções de saúde, tr
 - **Objetivo do processo**
 
 Realizar exames, cadastro de laudos, entre outros. 
+
 # Funcionalidades básicas
 
 - Emissão de pedidos de exame feita pelos médicos;
@@ -37,12 +38,6 @@ Realizar exames, cadastro de laudos, entre outros.
 - Cadastro do paciente;
 - Consulta do paciente: data do exame, resultado de exame.
 
-# Tipos de médicos
-
-- Médicos Residentes (modalidade de ensino a pós graduação destinado a médicos, ou seja, é um aluno que já é formado porém está fazendo uma especialidade, ele precisa de uma orientação profissional);
-- Médicos professores (orientadores dos residentes);
-- Médicos.
-
 # Dados dos médicos que são necessários para o cadastro
 
 - Nome
@@ -51,6 +46,12 @@ Realizar exames, cadastro de laudos, entre outros.
 - **Classificação**
 - **Titulação do médico professor:** Mestre, doutor, PHD
 - **Ano de residência do medico residente:** 1º ano de residência até 4º de residência
+
+# Tipos de médicos
+
+- Médicos Residentes (modalidade de ensino a pós graduação destinado a médicos, ou seja, é um aluno que já é formado porém está fazendo uma especialidade, ele precisa de uma orientação profissional);
+- Médicos professores (orientadores dos residentes);
+- Médicos.
 
 # Dados dos pacientes que são necessários para o cadastro 
 
