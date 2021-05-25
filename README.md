@@ -61,6 +61,35 @@ Realizar exames, cadastro de laudos, entre outros.
 - Cor (é importante pois algumas doenças são predominantes em determinadas cores)
 - Idade(é calculada na data de nascimento inserida no cadastro de paciente)
 
+# Dados necessários para o pedido de exame (Realizado pelos médicos residentes)
+
+- Nome do paciente
+- Sexo
+- Idade
+- Cor
+- Data prevista de realização;
+- Nome do exame
+- Recomendação
+- Hipótese do diagnóstico 
+
+# Dados necessários para o cadastro do exame
+
+- Anexação de pdf
+- Data da realização
+- Hora da realização
+- Laudo médico
+- Tipo exame 
+- Imagem exame 
+- Situação do laudo
+
+# Tipos de exames que podem ser solicitados
+
+- Ecocardiograma
+- Eletrocardiograma
+- Mapa
+- Holter
+
+
 # Tecnologias utilizadas no desenvolvimento do software
 
 - **Front-end**
