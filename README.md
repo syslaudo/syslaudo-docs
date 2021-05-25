@@ -1,3 +1,33 @@
+# Sistema de gerenciamento de exames e laudos de cardiologia  (SYSLAUDO)
+
+Visando atender melhor seus pacientes e informatizar seu sistema de solicitação de exames e entrega de resultados da área de cardiologia, o hospital da UNIT contratou a ABLFN³ para desenvolver o software aqui apresentado.
+
+# Alinhamento Estratégico 
+
+- **Missão**
+
+Oferecer a melhor experiência em soluções de saúde, com qualidade, segurança e comodidade.
+
+- **Nosso cliente**
+
+Pessoas que necessitam de soluções de saúde.
+
+- **O que o cliente valoriza?**
+
+O cliente valoriza quando é bem atendido e suas demandas são reconhecidas.
+
+- **Quais são os nossos resultados?**
+
+Através dos nossos processos de segurança, comodidade e qualidade esperamos um feedback positivo do cliente, e também dos nossos funcionários em se sentir confortável para trabalhar. Com isso, esperamos construir uma boa reputação no mercado e crescer eventualmente. 
+
+- **Qual é o nosso plano?**
+
+Conseguir atender a todos os clientes que necessitam de soluções de saúde, tratando o cliente com comodidade e saúde para retornar.  
+
+- **Objetivo do processo**
+
+Realizar exames, cadastro de laudos, entre outros.
+
 
 
 ## Grupo ABFLN³ 👨‍💻👩‍💻
