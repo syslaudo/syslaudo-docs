@@ -8,7 +8,7 @@ Visando atender melhor seus pacientes e informatizar seu sistema de solicitaçã
 
 Oferecer a melhor experiência em soluções de saúde, com qualidade, segurança e comodidade.
 
-- **Nosso cliente **
+- **Nosso cliente**
 
 Pessoas que necessitam de soluções de saúde.
 
