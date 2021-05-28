@@ -2,7 +2,7 @@
 
 Visando atender melhor seus pacientes e informatizar seu sistema de solicitação de exames e entrega de resultados da área de cardiologia, o hospital da UNIT contratou a ABLFN³ para desenvolver o software aqui apresentado.
 
-# // @Ninha, fazer update do alinhamento Estratégico
+# // @Ninha, fazer update do alinhamento Estratégico, depois do update, apague daqui essa parte de baixo
 
 # Alinhamento Estratégico 
 
@@ -41,7 +41,7 @@ Realizar exames, cadastro de laudos, entre outros.
 
 - O processo de realizar exames, entre outros, é responsável por toda a receita da empresa, sendo sua melhoria extremamente necessária. A falta de uma gestão efetiva sobre o processo tem grande impacto no faturamento, crescimento e sobrevivência da empresa. 
 
-# // @Ninha, fazer update do Tecnologias
+# // @Ninha, fazer update do Tecnologias, depois do update, apague daqui essa parte de baixo
 
 # Tecnologias utilizadas no desenvolvimento do software
 
