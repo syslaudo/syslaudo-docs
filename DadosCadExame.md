@@ -1,3 +1,15 @@
+
+# Dados requeridos para o pedido de exame (Realizado pelos médicos residentes)
+
+- Nome do paciente
+- Sexo
+- Idade
+- Cor
+- Data prevista de realização;
+- Nome do exame
+- Recomendação
+- Hipótese do diagnóstico 
+
 # Dados requeridos para o cadastro do exame
 
 - Anexação de pdf
